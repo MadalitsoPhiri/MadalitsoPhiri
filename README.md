@@ -14,12 +14,20 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 ## Professional Experience
 
 ### **Full Stack Developer** | Stickycards Co. (Remote, Canada)
-*2023 – Present*
+*2025 – Present*
 - **Led development** of customer service utility with real-time chat features, integrating with third-party apps to build a customer loyalty program
 - Architected and maintained **NestJS backend** and **React frontend** with TypeScript
 - Implemented real-time communication using **Socket.io**, reducing message latency by 40%
 - Designed responsive UI with **Tailwind CSS**, improving user engagement by 25%
 - Built comprehensive dashboard for customer analytics and loyalty tracking
+
+### **Full Stack Mobile Developer** | BPTN (Remote, North America)
+*2022 – 2025*
+- Contributed to cross-functional mobile team building **OBSIDI app** for iOS and Android (5K+ downloads)
+- Implemented core features using React Native with **custom hooks** for clean separation of concerns
+- Styled components using **styled-components**, ensuring consistent mobile UX across platforms
+- Coordinated app deployment to **Google Play Store and Apple App Store**, managing release cycles and A/B testing
+- Applied **DRY principles** across codebase, reducing code duplication by 35%
 
 ### **Full Stack Developer** | SparknSpur Co. (Remote, Canada)
 *2020 – 2022*
@@ -28,14 +36,6 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - Built **real-time chat widget** using React, Webpack, Babel with Node/NestJS backend, deployed to 500+ partner sites
 - Implemented **Socket.io** for persistent connections, achieving <100ms message delivery
 - Mentored junior developers on React Native best practices and code review standards
-
-### **Full Stack Mobile Developer** | BPTN (Remote, North America)
-*2022 – 2023*
-- Contributed to cross-functional mobile team building **OBSIDI app** for iOS and Android (5K+ downloads)
-- Implemented core features using React Native with **custom hooks** for clean separation of concerns
-- Styled components using **styled-components**, ensuring consistent mobile UX across platforms
-- Coordinated app deployment to **Google Play Store and Apple App Store**, managing release cycles and A/B testing
-- Applied **DRY principles** across codebase, reducing code duplication by 35%
 
 ### **Full Stack Developer** | Multinet (Remote)
 *2020*
