@@ -7,7 +7,7 @@
 
 ## Profile
 
-Full Stack Developer with 5+ years of experience building scalable production-ready applications across web and mobile platforms. Proven expertise in TypeScript, React, NestJS, and cloud infrastructure. Lead developer with a track record of delivering customer-facing features, mentoring teams, and optimizing system performance. Passionate about clean code, microservices architecture, and systems engineering.
+Full Stack Developer with 5+ years of experience delivering production-ready web, mobile, and microservices applications from concept to deployment. Proficient in TypeScript, React, Node.js, React Native, and cloud infrastructure. Lead developer with proven track record of architecting scalable systems, mentoring teams, and optimizing performance. Expertise spans frontend frameworks, backend APIs, real-time applications, and DevOps. Passionate about clean code, microservices architecture, and systems engineering.
 
 ---
 
@@ -64,8 +64,10 @@ Full Stack Developer with 5+ years of experience building scalable production-re
 ### **Core Languages & Frameworks**
 - **JavaScript/TypeScript**: React, Next.js, Node.js, NestJS, React Native, Vue.js
 - **Backend**: NestJS, Express.js, Django, PHP
-- **Mobile**: React Native, Swift/SwiftUI, Kotlin, Objective-C
+- **Mobile**: React Native, Swift/SwiftUI, Kotlin, Objective-C, Java
+- **Systems & Low-Level**: Rust, C, C++
 - **Databases**: MongoDB, PostgreSQL, Firebase (Firestore, Realtime DB), Redis
+- **CMS & E-commerce**: WordPress, Elementor, WooCommerce
 
 ### **Cloud & DevOps**
 - AWS (EC2, Lambda, S3, RDS, CloudFront)
@@ -90,6 +92,9 @@ Full Stack Developer with 5+ years of experience building scalable production-re
 - Microservices architecture design
 - Version control: Git (collaboration, pull requests, code review)
 
+### **Operating Systems**
+- macOS, Linux, Windows
+
 ### **Other**
 - Microsoft Office, QuickBooks (accounting software)
 
@@ -112,5 +117,20 @@ Munali Secondary School | 2012–2014
 
 ## Interests & Continuous Learning
 
-Currently expanding expertise in **algorithms optimization for production systems**, **Rust programming language**, and **systems engineering**. Passionate about low-level programming and exploring performance-critical applications. Actively following industry trends in cloud architecture, DevOps practices, and emerging technologies.
+Passionate about mastering **algorithms optimization for production systems**, **Rust programming language**, and **systems engineering**. Actively exploring low-level programming and performance-critical applications. Committed to continuous learning of emerging technologies and best practices in cloud architecture, microservices design, and DevOps. Driven to build industry-standard, scalable solutions that solve real-world problems.
 
+---
+
+## References
+
+**Mr. Reuben Ndima** (Peco Ltd)  
++260 978 304 390
+
+**Mr. Patrick Kabwe** (SparknSpur Co.)  
++260 963 319 027
+
+**Mr. Kelly Kinyama** (Multinet)  
++260 972 462 922
+
+**Mr. Mundia** (Lendbox)  
++260 974 179 979
