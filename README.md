@@ -20,6 +20,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - Implemented real-time communication using **Socket.io**, reducing message latency by 40%
 - Designed responsive UI with **Tailwind CSS**, improving user engagement by 25%
 - Built comprehensive dashboard for customer analytics and loyalty tracking
+- **Live link:** [www.sosticky.io](https://www.sosticky.io)
 
 ### **Full Stack Mobile Developer** | BPTN (Remote, Canada)
 *2022 – 2025*
@@ -28,6 +29,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - Styled components using **styled-components**, ensuring consistent mobile UX across platforms
 - Coordinated app deployment to **Google Play Store and Apple App Store**, managing release cycles and A/B testing
 - Applied **DRY principles** across codebase, reducing code duplication by 35%
+- **Live links:** [Web App](https://app.obsidi.com) | [Android](https://play.google.com/store/apps/details?id=com.obsidi.android) | [iOS](https://apps.apple.com/us/app/obsidi/id1645597175)
 
 ### **Full Stack Developer** | SparknSpur Co. (Remote, Canada)
 *2020 – 2022*
@@ -36,6 +38,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - Built **real-time chat widget** using React, Webpack, Babel with Node/NestJS backend, deployed to 500+ partner sites
 - Implemented **Socket.io** for persistent connections, achieving <100ms message delivery
 - Mentored junior developers on React Native best practices and code review standards
+- **Live link:** [Propzi Web App](https://www.propzi.com/)
 
 ### **Full Stack Developer** | Multinet (Remote)
 *2020*
