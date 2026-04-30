@@ -21,7 +21,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - Designed responsive UI with **Tailwind CSS**, improving user engagement by 25%
 - Built comprehensive dashboard for customer analytics and loyalty tracking
 
-### **Full Stack Mobile Developer** | BPTN (Remote, North America)
+### **Full Stack Mobile Developer** | BPTN (Remote, Canada)
 *2022 – 2025*
 - Contributed to cross-functional mobile team building **OBSIDI app** for iOS and Android (5K+ downloads)
 - Implemented core features using React Native with **custom hooks** for clean separation of concerns
@@ -119,18 +119,4 @@ Munali Secondary School | 2012–2014
 
 Passionate about mastering **algorithms optimization for production systems**, **Rust programming language**, and **systems engineering**. Actively exploring low-level programming and performance-critical applications. Committed to continuous learning of emerging technologies and best practices in cloud architecture, microservices design, and DevOps. Driven to build industry-standard, scalable solutions that solve real-world problems.
 
----
 
-## References
-
-**Mr. Reuben Ndima** (Peco Ltd)  
-+260 978 304 390
-
-**Mr. Patrick Kabwe** (SparknSpur Co.)  
-+260 963 319 027
-
-**Mr. Kelly Kinyama** (Multinet)  
-+260 972 462 922
-
-**Mr. Mundia** (Lendbox)  
-+260 974 179 979
