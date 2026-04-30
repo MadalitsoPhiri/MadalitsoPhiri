@@ -1,7 +1,7 @@
 # Madalitso Phiri
 **Full Stack Software Developer**
 
-📱 +27 (71) 948-0084 | 📧 Madalitso.phiri150@gmail.com | 🔗 [GitHub](https://github.com) 
+📱 +27 (71) 948-0084 | 📧 Madalitso.phiri150@gmail.com | 🔗 [GitHub](https://github.com) | 💼 [LinkedIn](https://www.linkedin.com/in/madalitso-phiri-1a09b719a/)
 
 ---
 
