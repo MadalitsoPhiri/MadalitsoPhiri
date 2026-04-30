@@ -33,7 +33,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 
 ### **Full Stack Developer** | SparknSpur Co. (Remote, Canada)
 *2020 – 2022*
-- **Led mobile development** team building real estate application, transitioning architecture from Swift to React Native to reduce codebase maintenance by 50%
+- **Led mobile development** team building real estate application called propzi, transitioning architecture from Swift to React Native to reduce codebase maintenance by 50%
 - Developed and deployed **Django-based machine learning service** for real estate price prediction, handling 10K+ API requests daily
 - Built **real-time chat widget** using React, Webpack, Babel with Node/NestJS backend, deployed to 500+ partner sites
 - Implemented **Socket.io** for persistent connections, achieving <100ms message delivery
