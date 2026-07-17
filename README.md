@@ -1,29 +1,29 @@
 # Madalitso Phiri
 **Full Stack Software Developer**
 
-📱 +27 (71) 948-0084 | 📧 Madalitso.phiri150@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/madalitso-phiri-1a09b719a/)
++260978303127 / +27 (71) 948-0084 | Madalitso.phiri150@gmail.com | [LinkedIn](https://www.linkedin.com/in/madalitso-phiri-1a09b719a/)
 
 ---
 
 ## Profile
 
-Full Stack Developer with 5+ years of experience delivering production-ready web, mobile, and microservices applications from concept to deployment. Proficient in TypeScript, React, Node.js, React Native, and cloud infrastructure. Lead developer with proven track record of architecting scalable systems, mentoring teams, and optimizing performance. Expertise spans frontend frameworks, backend APIs, real-time applications, and DevOps. Passionate about clean code, microservices architecture, and systems engineering.
+Full Stack Developer with 5+ years of experience delivering production-ready web, mobile, and microservices applications from concept to deployment. Proficient in TypeScript, React, ASP.NET Core, React Native, and cloud infrastructure. Lead developer with proven track record of architecting scalable systems, mentoring teams, and optimizing performance. Expertise spans frontend frameworks, backend APIs, real-time applications, and DevOps. Passionate about clean code, microservices architecture, and systems engineering.
 
 ---
 
 ## Professional Experience
 
 ### **Full Stack Developer** | Stickycards Co. (Remote, Canada)
-*2025 – Present*
+*2025 - Present*
 - **Led development** of customer service utility with real-time chat features, integrating with third-party apps to build a customer loyalty program
-- Architected and maintained **NestJS backend** and **React frontend** with TypeScript
+- Architected and maintained **ASP.NET Core backend** and **React frontend** with TypeScript
 - Implemented real-time communication using **Socket.io**, reducing message latency by 40%
 - Designed responsive UI with **Tailwind CSS**, improving user engagement by 25%
 - Built comprehensive dashboard for customer analytics and loyalty tracking
 - **Live link:** [www.sosticky.io](https://www.sosticky.io)
 
 ### **Full Stack Mobile Developer** | BPTN (Remote, Canada)
-*2022 – 2025*
+*2022 - 2025*
 - Contributed to cross-functional mobile team building **OBSIDI app** for iOS and Android (5K+ downloads)
 - Implemented core features using React Native with **custom hooks** for clean separation of concerns
 - Styled components using **styled-components**, ensuring consistent mobile UX across platforms
@@ -32,10 +32,10 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 - **Live links:** [Web App](https://app.obsidi.com) | [Android](https://play.google.com/store/apps/details?id=com.obsidi.android) | [iOS](https://apps.apple.com/us/app/obsidi/id1645597175)
 
 ### **Full Stack Developer** | SparknSpur Co. (Remote, Canada)
-*2020 – 2022*
+*2020 - 2022*
 - **Led mobile development** team building real estate application called **Propzi**, transitioning architecture from Swift to React Native to reduce codebase maintenance by 50%
 - Developed and deployed **Django-based machine learning service** for real estate price prediction, handling 10K+ API requests daily
-- Built **real-time chat widget** using React, Webpack, Babel with Node/NestJS backend, deployed to 500+ partner sites
+- Built **real-time chat widget** using React, Webpack, Babel with **ASP.NET Core backend**, deployed to 500+ partner sites
 - Implemented **Socket.io** for persistent connections, achieving <100ms message delivery
 - Mentored junior developers on React Native best practices and code review standards
 - **Live link:** [Propzi Web App](https://www.propzi.com/)
@@ -65,8 +65,8 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 ## Technical Skills
 
 ### **Core Languages & Frameworks**
-- **JavaScript/TypeScript**: React, Next.js, Node.js, NestJS, React Native, Vue.js
-- **Backend**: NestJS, Express.js, Django, PHP
+- **JavaScript/TypeScript/C#**: React, Next.js, Node.js, ASP.NET Core, React Native, Vue.js
+- **Backend**: ASP.NET Core, Express.js, Django, PHP
 - **Mobile**: React Native, Swift/SwiftUI, Kotlin, Objective-C, Java
 - **Systems & Low-Level**: Rust, C, C++
 - **Databases**: MongoDB, PostgreSQL, Firebase (Firestore, Realtime DB), Redis
@@ -114,12 +114,10 @@ FreeCodeCamp | 2020
 - [JavaScript Algorithms & Data Structures](https://freecodecamp.org/certification/fccc343da18-dcc1-48c2-b315-11564ea8f4c0/javascript-algorithms-and-data-structures)
 
 **Secondary Education**  
-Munali Secondary School | 2012–2014
+Munali Secondary School | 2012-2014
 
 ---
 
 ## Interests & Continuous Learning
 
 Passionate about mastering **algorithms optimization for production systems**, **Rust programming language**, and **systems engineering**. Actively exploring low-level programming and performance-critical applications. Committed to continuous learning of emerging technologies and best practices in cloud architecture, microservices design, and DevOps. Driven to build industry-standard, scalable solutions that solve real-world problems.
-
-
