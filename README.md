@@ -14,7 +14,7 @@ Full Stack Developer with 5+ years of experience delivering production-ready web
 ## Professional Experience
 
 ### **Full Stack Developer** | Stickycards Co. (Remote, Canada)
-*2025 - Present*
+*2025 - 2026*
 - **Led development** of customer service utility with real-time chat features, integrating with third-party apps to build a customer loyalty program
 - Architected and maintained **ASP.NET Core backend** and **React frontend** with TypeScript
 - Implemented real-time communication using **Socket.io**, reducing message latency by 40%
