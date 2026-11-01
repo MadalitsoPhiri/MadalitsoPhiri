@@ -69,16 +69,14 @@ Short fixed-price contracts in 2022 and 2025. 5 completed, rated 4.4–5.0 where
 
 ## Skills
 
-| | |
-|---|---|
-| **Frontend** | React, Next.js, TypeScript, Vue.js, Tailwind CSS, styled-components, Mapbox GL, Webpack, Vite |
-| **Backend** | Node.js, NestJS, Express, Django, GraphQL (Apollo), REST, Socket.io, PHP, microservices |
-| **Mobile** | React Native, Expo, Swift/SwiftUI, Kotlin, Java, App Store and Google Play releases |
-| **Data & GIS** | PostgreSQL, Prisma, MongoDB, Redis, Firebase (Firestore, Realtime DB, Cloud Functions), Turf.js, GeoJSON |
-| **Cloud & DevOps** | Google Cloud (Cloud Run, Cloud Build, Cloud SQL), AWS (EC2, Lambda, S3, RDS), Docker, Nginx, Linux, CI/CD |
-| **Testing** | Jest, Vitest, Playwright, Cypress, Mocha, Chai |
-| **AI tooling** | Claude Code (Opus, Sonnet, Haiku), custom subagents and skills, git worktrees |
-| **Systems** | Rust, C/C++ |
+- **Frontend**: React, Next.js, TypeScript, Vue.js, Tailwind CSS, styled-components, Mapbox GL, Webpack, Vite
+- **Backend**: Node.js, NestJS, Express, Django, GraphQL (Apollo), REST, Socket.io, PHP, microservices
+- **Mobile**: React Native, Expo, Swift/SwiftUI, Kotlin, Java, App Store and Google Play releases
+- **Data & GIS**: PostgreSQL, Prisma, MongoDB, Redis, Firebase (Firestore, Realtime DB, Cloud Functions), Turf.js, GeoJSON
+- **Cloud & DevOps**: Google Cloud (Cloud Run, Cloud Build, Cloud SQL), AWS (EC2, Lambda, S3, RDS), Docker, Nginx, Linux, CI/CD
+- **Testing**: Jest, Vitest, Playwright, Cypress, Mocha, Chai
+- **AI tooling**: Claude Code (Opus, Sonnet, Haiku), custom subagents and skills, git worktrees
+- **Systems**: Rust, C/C++
 
 ---
 
