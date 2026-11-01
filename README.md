@@ -15,9 +15,8 @@ Full stack developer with **6+ years of experience** (since 2020) building produ
 
 ## Experience
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/kindo-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/kindo.svg" height="26" alt="Kindo"></picture> &nbsp;<b>|</b>&nbsp; <b>MapBilling</b></p>
-
-### Full Stack Developer · Kindo Advertising Limited
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/kindo-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/kindo.svg" height="24" alt="Kindo" align="middle"></picture> &nbsp;<img src="https://madalitsophiri.github.io/images/logos/divider.svg" height="28" alt="" align="middle">&nbsp; MapBilling<br>
+Full Stack Developer · Kindo Advertising Limited
 *Sep 2025 – Present · Remote · Part-time · Zambia*
 - One of two core developers on **MapBilling**, a GIS-powered platform for water utilities, waste collectors and real estate agencies, with web dashboards, field apps and customer payment apps
 - Split a shared **NestJS** backend and **React** web app into separate water, waste and real estate apps, each with its own **PostgreSQL** database (Prisma) and **Cloud Build** pipeline to **Google Cloud Run**; wrote the per-product data migration tool
@@ -26,35 +25,31 @@ Full stack developer with **6+ years of experience** (since 2020) building produ
 - Built a **Claude Code** multi-agent workflow: the main model plans and reviews, smaller models implement from written specs, tasks are routed by measured cost, and money, auth, schema and deploy work stays under direct review
 - **Live:** [Map Estates](https://realestate.mapbilling.com) · [Water](https://water.mapbilling.com) · [Waste](https://garbage.mapbilling.com) · Map Estates [Android](https://play.google.com/store/apps/details?id=com.mapbilling.realestate) · GarbageCo [Android](https://play.google.com/store/apps/details?id=com.garbagecopay), [iOS](https://apps.apple.com/zm/app/garbageco/id6759239159)
 
-<p><img src="https://madalitsophiri.github.io/images/logos/sticky.svg" height="30" alt="Sticky"></p>
-
-### Full Stack Developer · Stickycards Co.
+### <img src="https://madalitsophiri.github.io/images/logos/sticky.svg" height="28" alt="Sticky" align="middle"><br>
+Full Stack Developer · Stickycards Co.
 *Jan 2025 – Feb 2026 · Remote · Canada*
 - **Led development** of a customer service tool with real-time chat and third-party integrations, powering a customer loyalty program
 - Architected and maintained the **NestJS** backend and **React + TypeScript** frontend; built the customer analytics and loyalty dashboard
 - Cut message latency by **40%** with **Socket.io**, and raised user engagement by **25%** with a responsive **Tailwind CSS** UI
 - **Live:** [sosticky.io](https://www.sosticky.io)
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/bptn-white.svg"><img src="https://madalitsophiri.github.io/images/logos/bptn.svg" height="24" alt="BPTN"></picture> &nbsp;<b>|</b>&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/obsidi-white.svg"><img src="https://madalitsophiri.github.io/images/logos/obsidi.svg" height="20" alt="OBSIDI"></picture></p>
-
-### Full Stack Mobile Developer · BPTN
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/bptn-white.svg"><img src="https://madalitsophiri.github.io/images/logos/bptn.svg" height="22" alt="BPTN" align="middle"></picture> &nbsp;<img src="https://madalitsophiri.github.io/images/logos/divider.svg" height="28" alt="" align="middle">&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/obsidi-white.svg"><img src="https://madalitsophiri.github.io/images/logos/obsidi.svg" height="18" alt="OBSIDI" align="middle"></picture><br>
+Full Stack Mobile Developer · BPTN
 *Aug 2022 – Jan 2025 · Remote · Canada*
 - Built core features of the **OBSIDI** career and mentorship app for iOS and Android (**5K+ downloads**) in **React Native**, using custom hooks to keep logic out of screens
 - Kept the UX consistent across platforms with **styled-components**; cut code duplication by **35%**
 - Coordinated App Store and Google Play releases, release cycles and A/B tests
 - **Live:** [Web](https://app.obsidi.com) · [iOS](https://apps.apple.com/us/app/obsidi/id1645597175) · [Android](https://play.google.com/store/apps/details?id=com.obsidi.android)
 
-<p><img src="https://madalitsophiri.github.io/images/logos/lendbox.svg" height="26" alt="Lendbox"></p>
-
-### Mobile Developer · Lendbox
+### <img src="https://madalitsophiri.github.io/images/logos/lendbox.svg" height="24" alt="Lendbox" align="middle"><br>
+Mobile Developer · Lendbox
 *Jun 2022 – Aug 2022 · On-site · Lusaka, Zambia · Part-time*
 - Full stack mobile development on **Lendbox**, an AI-powered loan management platform for lenders and microfinance institutions (web, Android and iOS)
 - Worked in the on-site product team using **Sentry** for error monitoring and **Asana** for delivery
 - **Live:** [lendbox.io](https://lendbox.io/en) · [iOS](https://apps.apple.com/zm/app/lendbox-ai-loan-management/id1610722829) · [Android](https://play.google.com/store/apps/details?id=com.lendbox.lendbox2)
 
-<p><img src="https://madalitsophiri.github.io/images/logos/sparknspur-icon.svg" height="28" alt=""> <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/sparknspur-white.svg"><img src="https://madalitsophiri.github.io/images/logos/sparknspur.svg" height="18" alt="Spark&Spur"></picture> &nbsp;<b>|</b>&nbsp; <img src="https://madalitsophiri.github.io/images/logos/propzi.svg" height="34" alt="Propzi"></p>
-
-### Full Stack Developer · SparknSpur Co.
+### <img src="https://madalitsophiri.github.io/images/logos/sparknspur-icon.svg" height="26" alt="" align="middle"> <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/sparknspur-white.svg"><img src="https://madalitsophiri.github.io/images/logos/sparknspur.svg" height="16" alt="Spark&Spur" align="middle"></picture> &nbsp;<img src="https://madalitsophiri.github.io/images/logos/divider.svg" height="28" alt="" align="middle">&nbsp; <img src="https://madalitsophiri.github.io/images/logos/propzi.svg" height="32" alt="Propzi" align="middle"><br>
+Full Stack Developer · SparknSpur Co.
 *Oct 2020 – May 2022 · Remote · Canada*
 - **Led the mobile team** rebuilding **Propzi**, moving from Swift to **React Native** and halving codebase maintenance
 - Built and deployed a **Django** machine-learning service for real estate price prediction, handling **10K+** API requests a day
@@ -66,9 +61,8 @@ Full stack developer with **6+ years of experience** (since 2020) building produ
 *Jul 2020 – Oct 2020 · Remote*
 - Built a VoIP mobile app combining chat with cell-network calling: prototyped in React Native, then rebuilt in **Kotlin** for SIP trunking, with a **Node.js** backend for call routing and users, supporting 100+ concurrent users
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/greenwebb-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/greenwebb.svg" height="34" alt="Greenwebb"></picture></p>
-
-### Full Stack Developer · GreenWebb
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/greenwebb-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/greenwebb.svg" height="30" alt="Greenwebb" align="middle"></picture><br>
+Full Stack Developer · GreenWebb
 *Jan 2020 – Jul 2020 · Startup*
 - Built a **PHP/MySQL** web app with authentication and data management, a mobile-first frontend, and Orgsocial, a native **Android** messaging app (Java, Firebase)
 
