@@ -15,7 +15,7 @@ Full stack developer with **6+ years of experience** (since 2020) building produ
 
 ## Experience
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/kindo-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/kindo.svg" height="24" alt="Kindo" align="middle"></picture> &nbsp;<img src="https://madalitsophiri.github.io/images/logos/divider.svg" height="28" alt="" align="middle">&nbsp; MapBilling<br>Full Stack Developer · Kindo Advertising Limited
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/kindo-dark.svg"><img src="https://madalitsophiri.github.io/images/logos/kindo.svg" height="30" alt="Kindo" align="middle"></picture><img src="https://madalitsophiri.github.io/images/logos/divider-kindo.svg" height="30" alt="" align="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://madalitsophiri.github.io/images/logos/mapbilling-text-white.svg"><img src="https://madalitsophiri.github.io/images/logos/mapbilling-text.svg" height="30" alt="MapBilling" align="middle"></picture><br>Full Stack Developer · Kindo Advertising Limited
 *Sep 2025 – Present · Remote · Part-time · Zambia*
 - One of two core developers on **MapBilling**, a GIS-powered platform for water utilities, waste collectors and real estate agencies, with web dashboards, field apps and customer payment apps
 - Split a shared **NestJS** backend and **React** web app into separate water, waste and real estate apps, each with its own **PostgreSQL** database (Prisma) and **Cloud Build** pipeline to **Google Cloud Run**; wrote the per-product data migration tool
